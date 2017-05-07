@@ -5,7 +5,7 @@
     "Atsuki Demizu <demmys.atsuki@gmail.com>"
   ],
   "description": "show characters like shell typing",
-  "main": "jquery.shell-view.js",
+  "main": "jquery.shell-view.min.js",
   "ignore": [
     "**/.*",
     "node_modules"
