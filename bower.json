@@ -1,0 +1,15 @@
+{
+  "name": "shell-viewjs",
+  "homepage": "https://github.com/demmys/shell-viewjs",
+  "authors": [
+    "Atsuki Demizu <demmys.atsuki@gmail.com>"
+  ],
+  "description": "show characters like shell typing",
+  "main": "jquery.shell-view.js",
+  "keywords": [
+    "shell",
+    "type",
+    "typing"
+  ],
+  "license": "BSD 2-clause"
+}
