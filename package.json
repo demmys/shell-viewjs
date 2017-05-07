@@ -1,0 +1,27 @@
+{
+  "name": "shell-viewjs",
+  "version": "1.0.0",
+  "description": "jQuery extension to show characters like shell typing",
+  "scripts": {
+    "build": "./node_modules/.bin/babel --compact=true -s -o jquery.shell-view.min.js jquery.shell-view.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demmys/shell-viewjs.git"
+  },
+  "keywords": [
+    "jQuery",
+    "shell",
+    "type",
+    "typing"
+  ],
+  "author": "Atsuki Demizu",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/demmys/shell-viewjs/issues"
+  },
+  "homepage": "https://github.com/demmys/shell-viewjs#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1"
+  }
+}

@@ -6,6 +6,10 @@
   ],
   "description": "show characters like shell typing",
   "main": "jquery.shell-view.js",
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ],
   "keywords": [
     "shell",
     "type",
